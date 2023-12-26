@@ -1,0 +1,20 @@
+.add-button {
+    background-color: white;
+    color: brown;
+    border-radius: 5px;
+    border: none;
+    font-size: 12px;
+    padding: 5px 12px;
+}
+
+.data-input-list {
+    list-style-type: none;
+}
+
+.individual-data {
+    background-color: white;
+    color: brown;
+    margin-bottom: 9px;
+    border-radius: 10px;
+    padding: 1px 5px;
+}
